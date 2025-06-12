@@ -1,0 +1,6 @@
+main
+go-gin-bookstore-api
+.env
+config.yaml
+logs/*
+!logs/.gitkeep
